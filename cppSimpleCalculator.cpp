@@ -70,6 +70,7 @@ int main()
 	}
 	writeAnswer();
 	cin.get();
+	//test
 
 	return 0;
 }
